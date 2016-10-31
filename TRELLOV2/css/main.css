@@ -16,6 +16,7 @@
 .tamañotarjetas{
 	width: 25%;
 	float: left;
+	margin: 1%;
 }
 .inline{
 	display: inline-block;
