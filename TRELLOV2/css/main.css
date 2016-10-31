@@ -10,13 +10,15 @@
 .bg-gris{
 	background-color: gainsboro;
 }
-.gris-trello{
-	background-color: #E2E4E6;
+.btnAñadirLista{
+	background-color: aquamarine;
 }
 .tamañotarjetas{
 	width: 25%;
+	float: left;
 }
 .inline{
 	display: inline-block;
 }
+.
 //
